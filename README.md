@@ -1,1 +1,2 @@
-# AeroFit-Treadmill-Customer-Profiling-and-Probability-Analysis
+# AeroFit-Customer-Profiling-&-Probability-Analysis
+In this exploration, we delve into the structure and characteristics of the data, identify outliers, and assess the impact of demographic features on product purchases. We'll represent marginal probabilities, uncover correlations, and answer specific questions about customer behavior. The ultimate goal is to provide actionable insights and recommendations for informed decision-making. 
